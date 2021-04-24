@@ -1,0 +1,50 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.user-container {
+  width: 200px;
+  height: 500px;
+}
+.avatar {
+  width: 100%;
+  height: 250px;
+  background-color: rgb(113, 113, 235);
+  margin-bottom: 20px;
+}
+
+.gender {
+  background-color: cornflowerblue;
+  display: inline;
+  border-radius: 5px;
+  color: #ffff;
+}
+.country {
+  background-color: darkgreen;
+  color: #ffff;
+  border-radius: 5px;
+}
+.phone-number {
+  background-color: rgb(80, 223, 175);
+  color: #ffff;
+  border-radius: 5px;
+}
+.favorites .number {
+  background-color: rgb(153, 153, 47);
+  border-radius: 5px;
+}
+.numbers {
+  background-color: rgb(153, 153, 47);
+  border-radius: 5px;
+}
+.name {
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.contact-info {
+  padding: 5px 0px;
+}
+hr {
+  margin-bottom: 5px;
+}
